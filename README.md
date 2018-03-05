@@ -1,2 +1,2 @@
 # MyFirstProject
-test for commit
+The test project
